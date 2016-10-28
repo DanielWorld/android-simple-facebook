@@ -10,8 +10,8 @@ import com.sromku.simple.fb.example.utils.SharedObjects;
 import com.sromku.simple.fb.utils.Logger;
 
 public class SampleApplication extends Application {
-    private static final String APP_ID = "728615400528729";
-    private static final String APP_NAMESPACE = "sromkuapp_vtwo";
+    private static final String APP_ID = "1631811513511560";
+    private static final String APP_NAMESPACE = "incombine";
 
     @Override
     public void onCreate() {
